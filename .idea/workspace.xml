@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc2544de-4e67-436b-b48d-9e624605a694" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bubble/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/words/BalancedWordsCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/bubble/BubbleSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/words/BalancedWordsCounterTest.java" afterDir="false" />
+    <list default="true" id="fc2544de-4e67-436b-b48d-9e624605a694" name="Changes" comment="Final commit to review.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/words/BalancedWordsCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/words/BalancedWordsCounter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +44,7 @@
       <recent name="bubble" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BalancedWordsCounterTest.checkBalanced">
+  <component name="RunManager" selected="Application.BalancedWordsCounter">
     <configuration name="BalancedWordsCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="words.BalancedWordsCounter" />
       <module name="BubbleSortBalanced" />
@@ -131,8 +123,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BalancedWordsCounterTest.checkBalanced" />
         <item itemvalue="Application.BalancedWordsCounter" />
+        <item itemvalue="JUnit.BalancedWordsCounterTest.checkBalanced" />
         <item itemvalue="JUnit.BalancedWordsCounterTest" />
         <item itemvalue="JUnit.BubbleSortTest.testException" />
         <item itemvalue="JUnit.BubbleSortTest.sort" />
@@ -148,6 +140,14 @@
       <option name="presentableId" value="Default" />
       <updated>1653997285040</updated>
     </task>
+    <task id="LOCAL-00001" summary="Final commit to review.">
+      <created>1654285972847</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654285972847</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,5 +160,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Final commit to review." />
+    <option name="LAST_COMMIT_MESSAGE" value="Final commit to review." />
   </component>
 </project>
